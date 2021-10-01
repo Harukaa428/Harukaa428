@@ -16,5 +16,4 @@
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoiron065&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
