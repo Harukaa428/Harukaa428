@@ -1,6 +1,6 @@
-## Hi, there! I'm MUHAMAD KHOIRON  <img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/Hi.gif" width="30px">
+## Hi, there! I'm MUHAMAD KHOIRON  <img src="https://github.com/Khoiron065/Khoiron065/blob/main/Hi.gif" width="30px">
 
-<img src="https://komarev.com/ghpvc/?username=Khoiron065&style=flat-square" alt="Doraemon-Chan" /><br>
+<img src="https://komarev.com/ghpvc/?username=Khoiron065&style=flat-square" alt="Khoiron065" /><br>
 
 <p align="center">
 
